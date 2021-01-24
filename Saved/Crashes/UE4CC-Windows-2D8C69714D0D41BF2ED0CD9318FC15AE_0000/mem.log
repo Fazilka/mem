@@ -1,0 +1,1793 @@
+﻿Log file open, 01/24/21 17:58:37
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: mem
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.624414
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-14830424
+LogInit: Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Dec  1 2020 15:13:26
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=Denny_da_boi -epicuserid=8a1dcac50c2945adaf1eff52645daff7 -epiclocale=ru
+LogInit: Base Directory: E:/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Brux/Documents/Unreal Projects/mem/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.01.24-14.58.38:033][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.01.24-14.58.38:033][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.01.24-14.58.38:033][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Brux/Documents/Unreal Projects/mem/Saved/Config/Windows/Engine.ini]
+[2021.01.24-14.58.38:033][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.01.24-14.58.38:033][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Brux/Documents/Unreal Projects/mem/Saved/Config/Windows/Engine.ini]
+[2021.01.24-14.58.38:033][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Brux/Documents/Unreal Projects/mem/Saved/Config/Windows/Engine.ini]
+[2021.01.24-14.58.38:033][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.01.24-14.58.38:033][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.01.24-14.58.38:033][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.01.24-14.58.38:033][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.01.24-14.58.38:033][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.01.24-14.58.38:033][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.01.24-14.58.38:033][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.01.24-14.58.38:033][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.01.24-14.58.38:033][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.01.24-14.58.38:033][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.01.24-14.58.38:033][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.01.24-14.58.38:033][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.01.24-14.58.38:033][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.01.24-14.58.38:033][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.01.24-14.58.38:033][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Brux/Documents/Unreal Projects/mem/Saved/Config/Windows/Engine.ini]
+[2021.01.24-14.58.38:033][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.01.24-14.58.38:033][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.01.24-14.58.38:033][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.01.24-14.58.38:033][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.01.24-14.58.38:033][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.01.24-14.58.38:033][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.01.24-14.58.38:033][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.01.24-14.58.38:033][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.01.24-14.58.38:033][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.01.24-14.58.38:033][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.01.24-14.58.38:033][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.01.24-14.58.38:033][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.01.24-14.58.38:033][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.01.24-14.58.38:033][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.01.24-14.58.38:033][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Brux/Documents/Unreal Projects/mem/Saved/Config/Windows/Engine.ini]
+[2021.01.24-14.58.38:033][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Brux/Documents/Unreal Projects/mem/Saved/Config/Windows/Engine.ini]
+[2021.01.24-14.58.38:054][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Brux/Documents/Unreal Projects/mem/Saved/Config/Windows/Scalability.ini]
+[2021.01.24-14.58.38:054][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.24-14.58.38:054][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.24-14.58.38:054][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Brux/Documents/Unreal Projects/mem/Saved/Config/Windows/Scalability.ini]
+[2021.01.24-14.58.38:054][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.24-14.58.38:054][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Brux/Documents/Unreal Projects/mem/Saved/Config/Windows/Scalability.ini]
+[2021.01.24-14.58.38:054][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.24-14.58.38:054][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.24-14.58.38:054][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.24-14.58.38:054][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.24-14.58.38:054][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.24-14.58.38:054][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.24-14.58.38:054][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.24-14.58.38:054][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.24-14.58.38:054][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.24-14.58.38:054][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.24-14.58.38:054][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.24-14.58.38:054][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.24-14.58.38:054][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Brux/Documents/Unreal Projects/mem/Saved/Config/Windows/Scalability.ini]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Brux/Documents/Unreal Projects/mem/Saved/Config/Windows/Scalability.ini]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Brux/Documents/Unreal Projects/mem/Saved/Config/Windows/Scalability.ini]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Brux/Documents/Unreal Projects/mem/Saved/Config/Windows/Scalability.ini]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Brux/Documents/Unreal Projects/mem/Saved/Config/Windows/Scalability.ini]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.01.24-14.58.38:055][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.01.24-14.58.38:055][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.24-14.58.38:055][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.24-14.58.38:056][  0]LogHAL: Display: Platform has ~ 16 GB [17141657600 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.24-14.58.38:056][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.24-14.58.38:056][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Brux/Documents/Unreal Projects/mem/Saved/Config/Windows/Scalability.ini]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Brux/Documents/Unreal Projects/mem/Saved/Config/Windows/Scalability.ini]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Brux/Documents/Unreal Projects/mem/Saved/Config/Windows/Scalability.ini]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Brux/Documents/Unreal Projects/mem/Saved/Config/Windows/Scalability.ini]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Brux/Documents/Unreal Projects/mem/Saved/Config/Windows/Scalability.ini]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Brux/Documents/Unreal Projects/mem/Saved/Config/Windows/Scalability.ini]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.24-14.58.38:056][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.24-14.58.38:057][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.24-14.58.38:057][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.24-14.58.38:057][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.01.24-14.58.38:057][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.24-14.58.38:057][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.24-14.58.38:057][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.24-14.58.38:057][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.01.24-14.58.38:057][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.24-14.58.38:057][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.01.24-14.58.38:057][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.24-14.58.38:057][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.24-14.58.38:057][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.24-14.58.38:057][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Brux/Documents/Unreal Projects/mem/Saved/Config/Windows/Scalability.ini]
+[2021.01.24-14.58.38:057][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.24-14.58.38:057][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.24-14.58.38:057][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Brux/Documents/Unreal Projects/mem/Saved/Config/Windows/Scalability.ini]
+[2021.01.24-14.58.38:057][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.01.24-14.58.38:057][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.01.24-14.58.38:057][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.01.24-14.58.38:057][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.01.24-14.58.38:057][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.01.24-14.58.38:057][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.01.24-14.58.38:057][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.01.24-14.58.38:057][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Brux/Documents/Unreal Projects/mem/Saved/Config/Windows/Engine.ini]
+[2021.01.24-14.58.38:057][  0]LogInit: Computer: USER-ПК
+[2021.01.24-14.58.38:057][  0]LogInit: User: Brux
+[2021.01.24-14.58.38:057][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.01.24-14.58.38:057][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.24-14.58.38:057][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2021.01.24-14.58.38:057][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.24-14.58.38:057][  0]LogMemory: Process Physical Memory: 135.57 MB used, 135.57 MB peak
+[2021.01.24-14.58.38:057][  0]LogMemory: Process Virtual Memory: 118.48 MB used, 118.48 MB peak
+[2021.01.24-14.58.38:057][  0]LogMemory: Physical Memory: 8693.18 MB used,  7654.38 MB free, 16347.56 MB total
+[2021.01.24-14.58.38:057][  0]LogMemory: Virtual Memory: 134203928.00 MB used,  13798.52 MB free, 134217728.00 MB total
+[2021.01.24-14.58.38:064][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.01.24-14.58.38:110][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.01.24-14.58.38:111][  0]LogInit: Using OS detected language (ru-RU).
+[2021.01.24-14.58.38:111][  0]LogInit: Using OS detected locale (ru-RU).
+[2021.01.24-14.58.38:114][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2021.01.24-14.58.38:115][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2021.01.24-14.58.38:115][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2021.01.24-14.58.38:115][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2021.01.24-14.58.38:115][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2021.01.24-14.58.38:115][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2021.01.24-14.58.38:115][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2021.01.24-14.58.38:115][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2021.01.24-14.58.38:116][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.24-14.58.38:123][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.01.24-14.58.38:175][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.24-14.58.38:175][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.24-14.58.38:379][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.24-14.58.38:379][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.01.24-14.58.38:379][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.01.24-14.58.38:379][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.24-14.58.38:444][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2021.01.24-14.58.38:444][  0]LogD3D11RHI:       8088/0/8173 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.01.24-14.58.38:446][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.24-14.58.38:446][  0]LogD3D11RHI:       0/0/8173 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.24-14.58.38:446][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.24-14.58.38:452][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.24-14.58.38:452][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2021.01.24-14.58.38:452][  0]LogWindows: EnumDisplayDevices:
+[2021.01.24-14.58.38:452][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2021.01.24-14.58.38:452][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2021.01.24-14.58.38:453][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.01.24-14.58.38:453][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.01.24-14.58.38:453][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.01.24-14.58.38:453][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2021.01.24-14.58.38:453][  0]LogD3D11RHI:   Driver Version: 461.09 (internal:27.21.14.6109, unified:461.09)
+[2021.01.24-14.58.38:453][  0]LogD3D11RHI:      Driver Date: 12-31-2020
+[2021.01.24-14.58.38:453][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2021.01.24-14.58.38:512][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.01.24-14.58.38:513][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.24-14.58.38:513][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.01.24-14.58.38:542][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.01.24-14.58.38:543][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.01.24-14.58.38:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.01.24-14.58.38:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.01.24-14.58.38:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.01.24-14.58.38:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.01.24-14.58.38:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.01.24-14.58.38:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.01.24-14.58.38:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.01.24-14.58.38:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.01.24-14.58.38:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.01.24-14.58.38:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.01.24-14.58.38:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.01.24-14.58.38:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.01.24-14.58.38:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.01.24-14.58.38:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.01.24-14.58.38:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.01.24-14.58.38:932][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.01.24-14.58.38:941][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.01.24-14.58.38:950][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.01.24-14.58.38:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.01.24-14.58.38:969][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.01.24-14.58.38:992][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.01.24-14.58.38:992][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.01.24-14.58.39:000][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.01.24-14.58.39:009][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.01.24-14.58.39:018][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.01.24-14.58.39:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.01.24-14.58.39:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.01.24-14.58.39:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.01.24-14.58.39:051][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.01.24-14.58.39:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.01.24-14.58.39:070][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.01.24-14.58.39:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.01.24-14.58.39:080][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.24-14.58.39:089][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.01.24-14.58.39:163][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.01.24-14.58.39:163][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (C:/Users/Brux/Documents/Unreal Projects/mem/Intermediate/Shaders/WorkingDirectory/8396/).
+[2021.01.24-14.58.39:163][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Brux/AppData/Local/Temp/UnrealShaderWorkingDir/1D9296D14016F286B897F38D6FA471B0/'.
+[2021.01.24-14.58.39:163][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.24-14.58.39:163][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.24-14.58.39:989][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.24-14.58.40:035][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/Brux/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.01.24-14.58.40:036][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Brux/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.01.24-14.58.40:036][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Brux/Documents/Unreal Projects/mem/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.24-14.58.40:036][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.24-14.58.40:036][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Brux/Documents/Unreal Projects/mem/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.24-14.58.40:036][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.24-14.58.40:048][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.24-14.58.40:048][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.24-14.58.40:048][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.01.24-14.58.40:092][  0]LogDerivedDataCache: Speed tests for C:/Users/Brux/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.04 seconds
+[2021.01.24-14.58.40:092][  0]LogDerivedDataCache: Display: Performance to C:/Users/Brux/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=1388.42MBs, RandomWriteSpeed=21.77MBs. Assigned SpeedClass 'Local'
+[2021.01.24-14.58.40:093][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Brux/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.24-14.58.40:093][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.24-14.58.40:093][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.24-14.58.40:141][  0]LogSlate: Using FreeType 2.10.0
+[2021.01.24-14.58.40:142][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.24-14.58.40:169][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2021.01.24-14.58.40:404][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.24-14.58.40:405][  0]LogInit: Active device profile: [0000026585355E00][00000265F8F50280 49] Windows
+[2021.01.24-14.58.40:405][  0]LogInit: Profiles: [0000026585355E00][00000265F8F50280 49] Windows, [000002658535E400][0000026583D50400 49] WindowsNoEditor, [0000026585357800][0000026583D54580 49] WindowsServer, [000002658535E300][0000026583D58700 49] WindowsClient, [0000026585356D00][0000026583D5C880 49] IOS, [000002658535C900][0000026583D60A00 49] iPadAir, [0000026585357900][0000026583D64B80 49] iPadAir2, [0000026585307200][0000026583D6CE40 49] IPadPro, [0000026585307300][0000026583D68E80 49] iPadAir3, [0000026585354200][0000026583D71000 49] iPadAir4, [0000026585307500][0000026583D75180 49] iPadMini2, [0000026585354E00][0000026583D79300 49] iPadMini3, [0000026585305400][0000026583D7D480 49] iPadMini4, [0000026585355000][00000265F8F555C0 49] iPadMini5, [000002658533EB00][0000026583D85800 49] iPhone6, [000002658533EC00][0000026583D81840 49] iPodTouch6, [0000026585307C00][0000026583D91AC0 49] iPhone7, [0000026585307B00][0000026583D89B00 49] iPodTouch7, [000002658533CE00][0000026583D95C80 49] iPhone5S, [0000026585307F00][0000026583D98140 49] iPhone6Plus, [000002658533D200][0000026583D9C2C0 49] iPhone6S, [0000026585306800][0000026583DA0440 49] iPhone6SPlus, [000002658533EF00][0000026583DA45C0 49] iPhone7Plus, [0000026585307800][0000026583DA8740 49] iPhoneSE, [000002658533F200][0000026583DAC8C0 49] iPhone8, [0000026585305600][0000026583DB0A40 49] iPhone8Plus, [000002658533DF00][0000026583DB4BC0 49] iPhoneX, [0000026585305D00][0000026583DB8D40 49] iPhoneXS, [000002658533C300][0000026583DBCEC0 49] iPhoneXSMax, [0000026585304600][0000026583DC1040 49] iPhoneXR, [000002658533F000][0000026583DC51C0 49] iPhone11, [0000026585306500][0000026583DC9340 49] iPhone11Pro, [000002658533C600][0000026583DCD4C0 49] iPhone11ProMax, [0000026585305C00][0000026583DD1640 49] iPhoneSE2, [000002658533D400][0000026583D8D780 49] iPhone12Mini, [0000026585305100][0000026583DD58C0 49] iPhone12, [000002658533EA00][0000026583DD9A00 49] iPhone12Pro, [0000026585304200][0000026583DE1B80 49] iPhone12ProMax, [000002658533DB00][0000026583DE5D00 49] iPadPro105, [0000026585305800][0000026583DE81C0 49] iPadPro129, [000002658533CD00][0000026583DEC340 49] iPadPro97, [000002658535D300][0000026583DF04C0 49] iPadPro2_129, [0000026585306100][0000026583DF4640 49] iPad5, [000002658535D900][0000026583DF87C0 49] iPad6, [0000026585305000][0000026583DFC940 49] iPad7, [000002658535C800][0000026583E00AC0 49] iPad8, [0000026585305300][0000026583E04C40 49] iPadPro11, [000002658535E900][0000026583E08DC0 49] iPadPro2_11, [0000026585304E00][0000026583E0CF40 49] iPadPro3_129, [000002658533D000][0000026583E110C0 49] iPadPro4_129, [000002658535DF00][0000026583E15240 49] AppleTV, [000002658533DC00][0000026583E193C0 49] AppleTV4K, [000002658535CD00][0000026583E1D540 49] TVOS, [000002658533FD00][0000026583E216C0 49] Mac, [000002658535EF00][0000026583DDD800 49] MacClient, [000002658533E800][0000026583E25940 49] MacNoEditor, [000002658535FD00][0000026583E29A80 49] MacServer, [0000026585304400][0000026584661C00 49] Linux, [000002658535EA00][00000265846640C0 49] LinuxNoEditor, [0000026585307600][0000026584668240 49] LinuxAArch64NoEditor, [000002658535E000][000002658466C3C0 49] LinuxClient, [0000026585307400][0000026584670540 49] LinuxAArch64Client, [000002658535DC00][00000265846746C0 49] LinuxServer, [0000026585305F00][0000026584678840 49] LinuxAArch64Server, [000002658535F000][000002658467C9C0 49] Android, [0000026585307700][0000026584680B40 49] Android_Low, [000002658535F700][0000026584684CC0 49] Android_Mid, [0000026585305900][0000026584688E40 49] Android_High, [000002658535FA00][000002658468CFC0 49] Android_Default, [0000026585307100][0000026584691140 49] Android_Adreno4xx, [000002658535C200][00000265846952C0 49] Android_Adreno5xx_Low, [0000026585304900][0000026584699440 49] Android_Adreno5xx, [000002658535FE00][000002658469D5C0 49] Android_Adreno6xx, [0000026585304C00][00000265846A1740 49] Android_Adreno6xx_Vulkan, [000002658535FC00][0000026583E2D880 49] Android_Mali_T6xx, [0000026585305E00][00000265846A59C0 49] Android_Mali_T7xx, [000002658535E500][00000265846A9B00 49] Android_Mali_T8xx, [0000026585304300][00000265846ADC40 49] Android_Mali_G71, [000002658535EB00][00000265846B4100 49] Android_Mali_G72, [0000026585306700][00000265846B8280 49] Android_Mali_G72_Vulkan, [000002658535D000][00000265846BC400 49] Android_Mali_G76, [0000026585305B00][00000265846C0580 49] Android_Mali_G76_Vulkan, [000002658535DD00][00000265846C4700 49] Android_Mali_G77, [0000026585305200][00000265846C8880 49] Android_Mali_G77_Vulkan, [000002658535CF00][00000265846CCA00 49] Android_Vulkan_SM5, [0000026585307900][00000265846D0B80 49] Android_PowerVR_G6xxx, [000002658535D100][00000265846D4D00 49] Android_PowerVR_GT7xxx, [0000026585306C00][00000265846D8E80 49] Android_PowerVR_GE8xxx, [000002658535D800][00000265846DD000 49] Android_PowerVR_GM9xxx, [0000026585306F00][00000265846E1180 49] Android_PowerVR_GM9xxx_Vulkan, [000002658535DA00][00000265846E5300 49] Android_TegraK1, [0000026585304A00][00000265846E9480 49] Android_Unknown_Vulkan, [000002658535D600][00000265846ED600 49] Lumin, [0000026585307A00][00000265846F1780 49] Lumin_Desktop, [000002658535C100][00000265846B18C0 49] HoloLens, 
+[2021.01.24-14.58.40:524][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.24-14.58.40:524][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.01.24-14.58.40:524][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.24-14.58.40:524][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.01.24-14.58.40:524][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.01.24-14.58.40:561][  0]LogNetVersion: mem 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1520818714)
+[2021.01.24-14.58.40:987][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.01.24-14.58.41:044][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.055316 seconds
+[2021.01.24-14.58.41:049][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.01.24-14.58.41:049][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.01.24-14.58.41:049][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.24-14.58.41:403][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.24-14.58.41:408][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.24-14.58.41:496][  0]SourceControl: Source control is disabled
+[2021.01.24-14.58.41:496][  0]SourceControl: Source control is disabled
+[2021.01.24-14.58.41:507][  0]SourceControl: Source control is disabled
+[2021.01.24-14.58.41:526][  0]SourceControl: Source control is disabled
+[2021.01.24-14.58.41:529][  0]SourceControl: Source control is disabled
+[2021.01.24-14.58.41:535][  0]LogUProjectInfo: Found projects:
+[2021.01.24-14.58.41:739][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.24-14.58.41:758][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.24-14.58.41:758][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.24-14.58.41:809][  0]LogCollectionManager: Loaded 0 collections in 0.000727 seconds
+[2021.01.24-14.58.41:832][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Brux/Documents/Unreal Projects/mem/Saved/Collections/' took 0.00s
+[2021.01.24-14.58.41:832][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Brux/Documents/Unreal Projects/mem/Content/Developers/Brux/Collections/' took 0.00s
+[2021.01.24-14.58.41:832][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Brux/Documents/Unreal Projects/mem/Content/Collections/' took 0.00s
+[2021.01.24-14.58.41:832][  0]LogOcInput: OculusInput pre-init called
+[2021.01.24-14.58.41:842][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.01.24-14.58.41:842][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.01.24-14.58.41:888][  0]LogEngine: Initializing Engine...
+[2021.01.24-14.58.41:889][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.24-14.58.41:889][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.01.24-14.58.41:890][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.01.24-14.58.41:995][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.24-14.58.42:003][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.24-14.58.42:016][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.01.24-14.58.42:021][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.01.24-14.58.42:021][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.01.24-14.58.42:021][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.24-14.58.42:021][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.24-14.58.42:021][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.24-14.58.42:021][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.24-14.58.42:021][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.24-14.58.42:021][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.24-14.58.42:021][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.24-14.58.42:021][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.24-14.58.42:022][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.24-14.58.42:022][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.24-14.58.42:037][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.24-14.58.42:037][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.01.24-14.58.42:063][  0]LogAudioMixer: Display: Using Audio Device Line 1 (Virtual Audio Cable)
+[2021.01.24-14.58.42:067][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.24-14.58.42:069][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.24-14.58.42:069][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.24-14.58.42:070][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.24-14.58.42:070][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.24-14.58.42:070][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.24-14.58.42:071][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.24-14.58.42:071][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.24-14.58.42:071][  0]LogInit: FAudioDevice initialized.
+[2021.01.24-14.58.42:072][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.01.24-14.58.42:072][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.24-14.58.42:151][  0]LogDerivedDataCache: Saved boot cache 0.08s 77MB C:/Users/Brux/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.01.24-14.58.42:156][  0]LogInit: Texture streaming: Enabled
+[2021.01.24-14.58.42:167][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14830424+++UE4+Release-4.26
+[2021.01.24-14.58.42:171][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.24-14.58.42:171][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.01.24-14.58.42:173][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.01.24-14.58.42:219][  0]LogInit: Transaction tracking system initialized
+[2021.01.24-14.58.42:240][  0]BlueprintLog: New page: Editor Load
+[2021.01.24-14.58.42:307][  0]LocalizationService: Localization service is disabled
+[2021.01.24-14.58.42:333][  0]TimingProfiler: Initialize
+[2021.01.24-14.58.42:333][  0]TimingProfiler: OnSessionChanged
+[2021.01.24-14.58.42:333][  0]LoadingProfiler: Initialize
+[2021.01.24-14.58.42:333][  0]LoadingProfiler: OnSessionChanged
+[2021.01.24-14.58.42:333][  0]NetworkingProfiler: Initialize
+[2021.01.24-14.58.42:333][  0]NetworkingProfiler: OnSessionChanged
+[2021.01.24-14.58.42:333][  0]MemoryProfiler: Initialize
+[2021.01.24-14.58.42:333][  0]MemoryProfiler: OnSessionChanged
+[2021.01.24-14.58.42:475][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.01.24-14.58.42:475][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.24-14.58.42:631][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Brux/Documents/Unreal Projects/mem/Content/' took 0.00s
+[2021.01.24-14.58.42:818][  0]SourceControl: Source control is disabled
+[2021.01.24-14.58.42:819][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.399
+[2021.01.24-14.58.42:819][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.24-14.58.42:819][  0]LightingResults: New page: Lighting Build
+[2021.01.24-14.58.42:820][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.01.24-14.58.42:820][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.24-14.58.42:820][  0]MapCheck: New page: Map Check
+[2021.01.24-14.58.42:820][  0]LightingResults: New page: Lighting Build
+[2021.01.24-14.58.42:826][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.01.24-14.58.42:882][  0]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.01.24-14.58.42:889][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2021.01.24-14.58.42:889][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2021.01.24-14.58.42:893][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.24-14.58.42:898][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.01.24-14.58.42:898][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.24-14.58.42:899][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,089ms to complete.
+[2021.01.24-14.58.42:899][  0]LogFileHelpers: Loading map 'Template_Default' took 0.079
+[2021.01.24-14.58.42:900][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.480
+[2021.01.24-14.58.43:028][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-14.58.43:033][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-14.58.43:040][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-14.58.43:047][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-14.58.43:061][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0095 seconds. Added 3601 classes and 859 folders.
+[2021.01.24-14.58.43:063][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.24-14.58.43:064][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.01.24-14.58.43:065][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.24-14.58.43:065][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.24-14.58.43:065][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.01.24-14.58.43:065][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.01.24-14.58.43:065][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.24-14.58.43:065][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.01.24-14.58.43:065][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.01.24-14.58.43:066][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.01.24-14.58.43:066][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.24-14.58.43:066][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.01.24-14.58.43:066][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.01.24-14.58.43:067][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.24-14.58.43:067][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.24-14.58.43:067][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.24-14.58.43:067][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.01.24-14.58.43:067][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.01.24-14.58.43:067][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.24-14.58.43:067][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.01.24-14.58.43:067][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.01.24-14.58.43:068][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.01.24-14.58.43:068][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.24-14.58.43:068][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.01.24-14.58.43:068][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.01.24-14.58.43:069][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.01.24-14.58.43:069][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.24-14.58.43:069][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.01.24-14.58.43:069][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.01.24-14.58.43:069][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.01.24-14.58.43:069][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.24-14.58.43:069][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.01.24-14.58.43:069][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.01.24-14.58.43:070][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.01.24-14.58.43:070][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.24-14.58.43:070][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.01.24-14.58.43:070][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.01.24-14.58.43:071][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.01.24-14.58.43:071][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.24-14.58.43:071][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.01.24-14.58.43:071][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.01.24-14.58.43:071][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.01.24-14.58.43:071][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.24-14.58.43:071][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.01.24-14.58.43:071][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.01.24-14.58.43:072][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.01.24-14.58.43:072][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.24-14.58.43:072][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.01.24-14.58.43:072][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.01.24-14.58.43:072][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.24-14.58.43:072][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.24-14.58.43:072][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.24-14.58.43:072][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.01.24-14.58.43:073][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.01.24-14.58.43:073][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.24-14.58.43:073][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.01.24-14.58.43:073][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.01.24-14.58.43:074][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.01.24-14.58.43:074][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.24-14.58.43:074][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.01.24-14.58.43:074][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.01.24-14.58.43:074][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.01.24-14.58.43:074][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.24-14.58.43:074][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.24-14.58.43:074][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.01.24-14.58.43:075][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.01.24-14.58.43:075][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.24-14.58.43:075][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.01.24-14.58.43:075][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.01.24-14.58.43:076][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.01.24-14.58.43:076][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.24-14.58.43:076][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.01.24-14.58.43:076][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.01.24-14.58.43:077][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.24-14.58.43:077][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.24-14.58.43:077][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.24-14.58.43:077][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.01.24-14.58.43:077][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.24-14.58.43:077][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.24-14.58.43:077][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.24-14.58.43:077][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.01.24-14.58.43:078][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.01.24-14.58.43:078][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.24-14.58.43:078][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.24-14.58.43:078][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.01.24-14.58.43:079][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.01.24-14.58.43:079][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.24-14.58.43:079][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.01.24-14.58.43:079][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.01.24-14.58.43:080][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.01.24-14.58.43:080][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.24-14.58.43:080][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.01.24-14.58.43:080][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.01.24-14.58.43:081][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.01.24-14.58.43:081][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.24-14.58.43:081][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.01.24-14.58.43:081][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.01.24-14.58.43:081][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.24-14.58.43:081][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.24-14.58.43:082][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.24-14.58.43:082][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.01.24-14.58.43:082][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.01.24-14.58.43:082][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.24-14.58.43:082][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.01.24-14.58.43:082][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2021.01.24-14.58.43:138][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.24-14.58.43:139][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.01.24-14.58.43:454][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.01.24-14.58.43:505][  0]LogSlate: Took 0.000327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.24-14.58.43:508][  0]LogSlate: Took 0.000338 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.24-14.58.43:514][  0]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.24-14.58.43:675][  0]LogRenderer: Reallocating scene render targets to support 1208x592 Format 10 NumSamples 1 (Frame:1).
+[2021.01.24-14.58.43:773][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.24-14.58.43:773][  0]LogLoad: (Engine Initialization) Total time: 7.35 seconds
+[2021.01.24-14.58.43:773][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.24-14.58.43:773][  0]LogInit: First time updating LLM stats...
+[2021.01.24-14.58.43:809][  0]LogAssetRegistry: Asset discovery search completed in 3.6401 seconds
+[2021.01.24-14.58.43:811][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.01.24-14.58.43:849][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.01.24-14.58.43:928][  2]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.24-14.58.44:797][105]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.24-14.58.45:649][172]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.24-14.58.45:661][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.24-14.58.45:661][172]PIE: New page: PIE session: Untitled_1 (24 янв. 2021 г., 20:58:45)
+[2021.01.24-14.58.45:662][172]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.01.24-14.58.45:663][172]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.01.24-14.58.45:663][172]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.01.24-14.58.45:664][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001739s)
+[2021.01.24-14.58.45:665][172]LogAIModule: Creating AISystem for world Untitled_1
+[2021.01.24-14.58.45:665][172]LogPlayLevel: PIE: World Init took: (0.000963s)
+[2021.01.24-14.58.45:665][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002809s)
+[2021.01.24-14.58.45:670][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.01.24-14.58.45:673][172]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.01.24-14.58.45:673][172]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.24-14.58.45:673][172]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.24-14.58.45:673][172]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.24-14.58.45:673][172]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.24-14.58.45:673][172]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.24-14.58.45:673][172]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.24-14.58.45:673][172]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.24-14.58.45:673][172]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.24-14.58.45:673][172]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.24-14.58.45:673][172]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.24-14.58.45:678][172]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.24-14.58.45:678][172]LogAudioMixer: Display: 1: FrontRight
+[2021.01.24-14.58.45:685][172]LogAudioMixer: Display: Using Audio Device Line 1 (Virtual Audio Cable)
+[2021.01.24-14.58.45:685][172]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.24-14.58.45:685][172]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.24-14.58.45:685][172]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.24-14.58.45:686][172]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.24-14.58.45:686][172]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.24-14.58.45:686][172]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.24-14.58.45:703][172]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.24-14.58.45:703][172]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.24-14.58.45:703][172]LogInit: FAudioDevice initialized.
+[2021.01.24-14.58.45:703][172]LogAudio: Display: Audio Device (ID: 2) registered with world 'Untitled_1'.
+[2021.01.24-14.58.45:741][172]LogLoad: Game class is 'gamebase_C'
+[2021.01.24-14.58.45:743][172]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2021.01.24-17.58.45
+[2021.01.24-14.58.45:743][172]LogWorld: Bringing up level for play took: 0.000511
+[2021.01.24-14.58.45:743][172]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.01.24-14.58.45:746][172]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.01.24-14.58.45:748][172]PIE: Server logged in
+[2021.01.24-14.58.45:750][172]PIE: Play in editor total start time 0,089 seconds.
+[2021.01.24-14.58.49:597][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-14.58.49:597][621]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.01.24-14.58.49:597][621]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.24-14.58.49:597][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.24-14.58.49:605][621]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.24-14.58.49:606][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.24-14.58.49:610][621]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.24-14.58.49:610][621]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.24-14.58.49:611][621]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.24-14.58.49:629][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-14.58.49:631][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.01.24-14.58.49:651][622]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.01.24-14.58.53:424][ 57]LogActorFactory: Actor Factory created Cube
+[2021.01.24-14.58.54:273][150]LogActorFactory: Actor Factory created Cube
+[2021.01.24-14.58.57:776][556]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.24-14.59.05:087][379]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/characterBP.characterBP
+[2021.01.24-14.59.05:260][379]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.01.24-14.59.06:181][379]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.24-14.59.06:222][380]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.24-14.59.27:636][ 73]BlueprintLog: New page: Compile characterBP
+[2021.01.24-14.59.27:646][ 73]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall height" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall height
+[2021.01.24-14.59.27:647][ 73]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall Normal" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall Normal
+[2021.01.24-14.59.27:648][ 73]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall Normal" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall Normal
+[2021.01.24-14.59.27:648][ 73]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "is wall thick?" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get is wall thick?
+[2021.01.24-14.59.27:648][ 73]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "Should player climb?" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get Should player climb?
+[2021.01.24-14.59.27:648][ 73]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "is wall thick?" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Set is wall thick?
+[2021.01.24-14.59.27:648][ 73]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "is wall thick?" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Set is wall thick?
+[2021.01.24-14.59.27:649][ 73]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall height2" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall height2
+[2021.01.24-14.59.27:649][ 73]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall height" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall height
+[2021.01.24-14.59.27:649][ 73]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall height2" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Set wall height2
+[2021.01.24-14.59.27:649][ 73]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "is wall thick?" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Set is wall thick?
+[2021.01.24-14.59.27:650][ 73]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall location" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall location
+[2021.01.24-14.59.27:650][ 73]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall Normal" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall Normal
+[2021.01.24-14.59.27:650][ 73]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "Should player climb?" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Set Should player climb?
+[2021.01.24-14.59.27:651][ 73]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "Should player climb?" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Set Should player climb?
+[2021.01.24-14.59.27:651][ 73]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall location" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall location
+[2021.01.24-14.59.27:651][ 73]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall height" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall height
+[2021.01.24-14.59.27:651][ 73]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall height" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Set wall height
+[2021.01.24-14.59.27:652][ 73]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall location" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall location
+[2021.01.24-14.59.27:652][ 73]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall Normal" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall Normal
+[2021.01.24-14.59.27:652][ 73]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall Normal" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Set wall Normal
+[2021.01.24-14.59.27:652][ 73]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall location" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Set wall location
+[2021.01.24-14.59.27:652][ 73]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] InputAction Event references unknown Action 'Vaulting' for  InputAction Vaulting
+[2021.01.24-14.59.27:654][ 73]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Normal  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.27:654][ 73]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Location  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.27:654][ 73]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Normal  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.27:654][ 73]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Location  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.27:654][ 73]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Height  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.27:655][ 73]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Location  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.27:655][ 73]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Height  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.27:655][ 73]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Should Player Climb?  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.27:655][ 73]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Should Player Climb?  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.27:655][ 73]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Normal  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.27:655][ 73]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Location  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.27:655][ 73]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Is Wall Thick?  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.27:655][ 73]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Height  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.27:655][ 73]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Height 2  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.27:656][ 73]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Height 2  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.27:656][ 73]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Is Wall Thick?  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.27:656][ 73]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Is Wall Thick?  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.27:656][ 73]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Should Player Climb?  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.27:656][ 73]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Is Wall Thick?  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.27:656][ 73]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Normal  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.27:657][ 73]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Normal  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.27:657][ 73]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Height  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.27:691][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.01.24-14.59.27:814][ 73]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.01.24-14.59.33:609][464]BlueprintLog: New page: Compile characterBP
+[2021.01.24-14.59.33:618][464]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall Normal" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall Normal
+[2021.01.24-14.59.33:619][464]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall Normal" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall Normal
+[2021.01.24-14.59.33:619][464]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "is wall thick?" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get is wall thick?
+[2021.01.24-14.59.33:619][464]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "Should player climb?" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get Should player climb?
+[2021.01.24-14.59.33:619][464]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "is wall thick?" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Set is wall thick?
+[2021.01.24-14.59.33:619][464]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "is wall thick?" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Set is wall thick?
+[2021.01.24-14.59.33:620][464]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall height2" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall height2
+[2021.01.24-14.59.33:620][464]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall height2" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Set wall height2
+[2021.01.24-14.59.33:620][464]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "is wall thick?" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Set is wall thick?
+[2021.01.24-14.59.33:620][464]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall location" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall location
+[2021.01.24-14.59.33:621][464]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall Normal" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall Normal
+[2021.01.24-14.59.33:621][464]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "Should player climb?" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Set Should player climb?
+[2021.01.24-14.59.33:621][464]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "Should player climb?" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Set Should player climb?
+[2021.01.24-14.59.33:621][464]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall location" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall location
+[2021.01.24-14.59.33:622][464]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall location" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall location
+[2021.01.24-14.59.33:622][464]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall Normal" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall Normal
+[2021.01.24-14.59.33:622][464]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall Normal" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Set wall Normal
+[2021.01.24-14.59.33:622][464]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall location" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Set wall location
+[2021.01.24-14.59.33:623][464]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] InputAction Event references unknown Action 'Vaulting' for  InputAction Vaulting
+[2021.01.24-14.59.33:625][464]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Normal  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.33:625][464]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Location  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.33:625][464]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Normal  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.33:626][464]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Location  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.33:626][464]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Location  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.33:626][464]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Should Player Climb?  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.33:626][464]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Should Player Climb?  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.33:626][464]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Normal  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.33:626][464]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Location  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.33:626][464]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Is Wall Thick?  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.33:627][464]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Height 2  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.33:627][464]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Height 2  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.33:627][464]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Is Wall Thick?  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.33:627][464]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Is Wall Thick?  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.33:627][464]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Should Player Climb?  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.33:627][464]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Is Wall Thick?  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.33:627][464]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Normal  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.33:628][464]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Normal  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.33:662][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.01.24-14.59.38:216][825]BlueprintLog: New page: Compile characterBP
+[2021.01.24-14.59.38:224][825]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "is wall thick?" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get is wall thick?
+[2021.01.24-14.59.38:225][825]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "Should player climb?" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get Should player climb?
+[2021.01.24-14.59.38:225][825]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "is wall thick?" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Set is wall thick?
+[2021.01.24-14.59.38:225][825]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "is wall thick?" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Set is wall thick?
+[2021.01.24-14.59.38:225][825]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall height2" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall height2
+[2021.01.24-14.59.38:226][825]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall height2" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Set wall height2
+[2021.01.24-14.59.38:226][825]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "is wall thick?" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Set is wall thick?
+[2021.01.24-14.59.38:226][825]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall location" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall location
+[2021.01.24-14.59.38:227][825]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "Should player climb?" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Set Should player climb?
+[2021.01.24-14.59.38:227][825]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "Should player climb?" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Set Should player climb?
+[2021.01.24-14.59.38:228][825]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall location" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall location
+[2021.01.24-14.59.38:229][825]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall location" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall location
+[2021.01.24-14.59.38:229][825]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall location" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Set wall location
+[2021.01.24-14.59.38:229][825]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] InputAction Event references unknown Action 'Vaulting' for  InputAction Vaulting
+[2021.01.24-14.59.38:231][825]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Location  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.38:231][825]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Location  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.38:232][825]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Location  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.38:232][825]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Should Player Climb?  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.38:232][825]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Should Player Climb?  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.38:232][825]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Location  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.38:232][825]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Is Wall Thick?  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.38:232][825]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Height 2  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.38:232][825]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Height 2  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.38:232][825]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Is Wall Thick?  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.38:232][825]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Is Wall Thick?  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.38:233][825]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Should Player Climb?  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.38:233][825]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Is Wall Thick?  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.38:265][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.01.24-14.59.43:046][201]BlueprintLog: New page: Compile characterBP
+[2021.01.24-14.59.43:056][201]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "Should player climb?" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get Should player climb?
+[2021.01.24-14.59.43:056][201]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall height2" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall height2
+[2021.01.24-14.59.43:057][201]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall height2" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Set wall height2
+[2021.01.24-14.59.43:057][201]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall location" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall location
+[2021.01.24-14.59.43:057][201]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "Should player climb?" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Set Should player climb?
+[2021.01.24-14.59.43:057][201]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "Should player climb?" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Set Should player climb?
+[2021.01.24-14.59.43:058][201]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall location" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall location
+[2021.01.24-14.59.43:058][201]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall location" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall location
+[2021.01.24-14.59.43:059][201]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall location" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Set wall location
+[2021.01.24-14.59.43:059][201]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] InputAction Event references unknown Action 'Vaulting' for  InputAction Vaulting
+[2021.01.24-14.59.43:061][201]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Location  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.43:061][201]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Location  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.43:061][201]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Location  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.43:061][201]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Should Player Climb?  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.43:061][201]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Should Player Climb?  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.43:061][201]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Location  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.43:062][201]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Height 2  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.43:062][201]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Height 2  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.43:062][201]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Should Player Climb?  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.43:096][201]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.01.24-14.59.47:751][555]BlueprintLog: New page: Compile characterBP
+[2021.01.24-14.59.47:762][555]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall height2" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall height2
+[2021.01.24-14.59.47:762][555]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall height2" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Set wall height2
+[2021.01.24-14.59.47:762][555]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall location" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall location
+[2021.01.24-14.59.47:763][555]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall location" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall location
+[2021.01.24-14.59.47:763][555]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall location" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall location
+[2021.01.24-14.59.47:764][555]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall location" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Set wall location
+[2021.01.24-14.59.47:764][555]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] InputAction Event references unknown Action 'Vaulting' for  InputAction Vaulting
+[2021.01.24-14.59.47:766][555]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Location  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.47:766][555]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Location  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.47:766][555]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Location  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.47:766][555]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Location  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.47:767][555]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Height 2  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.47:767][555]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Height 2  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.47:802][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.01.24-14.59.52:804][954]BlueprintLog: New page: Compile characterBP
+[2021.01.24-14.59.52:814][954]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall location" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall location
+[2021.01.24-14.59.52:815][954]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall location" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall location
+[2021.01.24-14.59.52:815][954]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall location" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Get wall location
+[2021.01.24-14.59.52:816][954]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] Could not find a variable named "wall location" in 'characterBP_C'.
+Make sure 'characterBP_C' has been compiled for  Set wall location
+[2021.01.24-14.59.52:816][954]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] InputAction Event references unknown Action 'Vaulting' for  InputAction Vaulting
+[2021.01.24-14.59.52:819][954]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Location  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.52:819][954]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Location  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.52:819][954]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Location  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.52:820][954]LogBlueprint: Error: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] The property associated with  Wall Location  could not be found in '/Game/characterBP.characterBP_C'
+[2021.01.24-14.59.52:856][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.01.24-14.59.56:929][258]BlueprintLog: New page: Compile characterBP
+[2021.01.24-14.59.56:940][258]LogBlueprint: Warning: [AssetLog] C:\Users\Brux\Documents\Unreal Projects\mem\Content\characterBP.uasset: [Compiler] InputAction Event references unknown Action 'Vaulting' for  InputAction Vaulting
+[2021.01.24-14.59.56:980][258]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.01.24-15.00.20:050][344]BlueprintLog: New page: Compile characterBP
+[2021.01.24-15.00.20:102][344]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.01.24-15.00.22:725][499]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.24-15.00.22:736][499]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.24-15.00.22:736][499]PIE: New page: PIE session: Untitled_1 (24 янв. 2021 г., 21:00:22)
+[2021.01.24-15.00.22:766][499]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.01.24-15.00.22:768][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001821s)
+[2021.01.24-15.00.22:769][499]LogAIModule: Creating AISystem for world Untitled_1
+[2021.01.24-15.00.22:769][499]LogPlayLevel: PIE: World Init took: (0.001359s)
+[2021.01.24-15.00.22:769][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003367s)
+[2021.01.24-15.00.22:787][499]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.01.24-15.00.22:788][499]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.01.24-15.00.22:788][499]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.24-15.00.22:788][499]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.24-15.00.22:788][499]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.24-15.00.22:789][499]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.24-15.00.22:789][499]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.24-15.00.22:789][499]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.24-15.00.22:789][499]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.24-15.00.22:789][499]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.24-15.00.22:789][499]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.24-15.00.22:789][499]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.24-15.00.22:794][499]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.24-15.00.22:794][499]LogAudioMixer: Display: 1: FrontRight
+[2021.01.24-15.00.22:803][499]LogAudioMixer: Display: Using Audio Device Line 1 (Virtual Audio Cable)
+[2021.01.24-15.00.22:803][499]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.24-15.00.22:803][499]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.24-15.00.22:803][499]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.24-15.00.22:803][499]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.24-15.00.22:803][499]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.24-15.00.22:803][499]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.24-15.00.22:816][499]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.24-15.00.22:816][499]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.24-15.00.22:817][499]LogInit: FAudioDevice initialized.
+[2021.01.24-15.00.22:817][499]LogAudio: Display: Audio Device (ID: 3) registered with world 'Untitled_1'.
+[2021.01.24-15.00.22:827][499]LogLoad: Game class is 'gamebase_C'
+[2021.01.24-15.00.22:828][499]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2021.01.24-18.00.22
+[2021.01.24-15.00.22:829][499]LogWorld: Bringing up level for play took: 0.000455
+[2021.01.24-15.00.22:829][499]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.01.24-15.00.22:831][499]PIE: Server logged in
+[2021.01.24-15.00.22:832][499]PIE: Play in editor total start time 0,098 seconds.
+[2021.01.24-15.00.31:257][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.00.31:257][454]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.01.24-15.00.31:257][454]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.24-15.00.31:257][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.24-15.00.31:265][454]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.24-15.00.31:283][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.24-15.00.31:300][454]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.24-15.00.31:300][454]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.24-15.00.31:301][454]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.24-15.00.31:318][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.00.31:320][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.01.24-15.00.31:360][455]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.01.24-15.00.39:266][ 36]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2021.01.24-15.00.47:000][739]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.24-15.00.50:284][ 54]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.24-15.00.50:294][ 54]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.24-15.00.50:294][ 54]PIE: New page: PIE session: Untitled_1 (24 янв. 2021 г., 21:00:50)
+[2021.01.24-15.00.50:294][ 54]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.01.24-15.00.50:296][ 54]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002015s)
+[2021.01.24-15.00.50:297][ 54]LogAIModule: Creating AISystem for world Untitled_1
+[2021.01.24-15.00.50:298][ 54]LogPlayLevel: PIE: World Init took: (0.001386s)
+[2021.01.24-15.00.50:298][ 54]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003520s)
+[2021.01.24-15.00.50:316][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.01.24-15.00.50:318][ 54]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.01.24-15.00.50:318][ 54]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.24-15.00.50:318][ 54]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.24-15.00.50:318][ 54]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.24-15.00.50:318][ 54]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.24-15.00.50:318][ 54]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.24-15.00.50:318][ 54]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.24-15.00.50:318][ 54]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.24-15.00.50:318][ 54]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.24-15.00.50:318][ 54]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.24-15.00.50:318][ 54]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.24-15.00.50:322][ 54]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.24-15.00.50:322][ 54]LogAudioMixer: Display: 1: FrontRight
+[2021.01.24-15.00.50:330][ 54]LogAudioMixer: Display: Using Audio Device Line 1 (Virtual Audio Cable)
+[2021.01.24-15.00.50:331][ 54]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.24-15.00.50:331][ 54]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.24-15.00.50:331][ 54]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.24-15.00.50:331][ 54]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.24-15.00.50:331][ 54]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.24-15.00.50:331][ 54]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.24-15.00.50:347][ 54]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.24-15.00.50:347][ 54]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.24-15.00.50:347][ 54]LogInit: FAudioDevice initialized.
+[2021.01.24-15.00.50:347][ 54]LogAudio: Display: Audio Device (ID: 4) registered with world 'Untitled_1'.
+[2021.01.24-15.00.50:355][ 54]LogLoad: Game class is 'gamebase_C'
+[2021.01.24-15.00.50:357][ 54]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2021.01.24-18.00.50
+[2021.01.24-15.00.50:357][ 54]LogWorld: Bringing up level for play took: 0.000633
+[2021.01.24-15.00.50:357][ 54]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.01.24-15.00.50:360][ 54]PIE: Server logged in
+[2021.01.24-15.00.50:361][ 54]PIE: Play in editor total start time 0,067 seconds.
+[2021.01.24-15.01.04:317][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.01.04:317][614]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.01.24-15.01.04:318][614]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.24-15.01.04:318][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.24-15.01.04:327][614]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.24-15.01.04:341][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.24-15.01.04:359][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.01.04:359][614]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.24-15.01.04:360][614]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.24-15.01.04:381][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.01.24-15.01.04:415][615]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.01.24-15.01.08:790][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.24-15.01.09:608][ 83]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2021.01.24-15.01.12:242][333]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.24-15.01.28:232][940]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.24-15.01.28:259][940]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.24-15.01.28:259][940]PIE: New page: PIE session: Untitled_1 (24 янв. 2021 г., 21:01:28)
+[2021.01.24-15.01.28:259][940]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.01.24-15.01.28:261][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002416s)
+[2021.01.24-15.01.28:263][940]LogAIModule: Creating AISystem for world Untitled_1
+[2021.01.24-15.01.28:263][940]LogPlayLevel: PIE: World Init took: (0.001421s)
+[2021.01.24-15.01.28:263][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003943s)
+[2021.01.24-15.01.28:282][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.01.24-15.01.28:282][940]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.01.24-15.01.28:282][940]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.24-15.01.28:282][940]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.24-15.01.28:282][940]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.24-15.01.28:282][940]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.24-15.01.28:282][940]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.24-15.01.28:282][940]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.24-15.01.28:282][940]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.24-15.01.28:282][940]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.24-15.01.28:283][940]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.24-15.01.28:283][940]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.24-15.01.28:287][940]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.24-15.01.28:287][940]LogAudioMixer: Display: 1: FrontRight
+[2021.01.24-15.01.28:294][940]LogAudioMixer: Display: Using Audio Device Line 1 (Virtual Audio Cable)
+[2021.01.24-15.01.28:295][940]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.24-15.01.28:295][940]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.24-15.01.28:295][940]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.24-15.01.28:295][940]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.24-15.01.28:295][940]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.24-15.01.28:295][940]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.24-15.01.28:309][940]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.24-15.01.28:309][940]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.24-15.01.28:309][940]LogInit: FAudioDevice initialized.
+[2021.01.24-15.01.28:309][940]LogAudio: Display: Audio Device (ID: 5) registered with world 'Untitled_1'.
+[2021.01.24-15.01.28:319][940]LogLoad: Game class is 'gamebase_C'
+[2021.01.24-15.01.28:320][940]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2021.01.24-18.01.28
+[2021.01.24-15.01.28:321][940]LogWorld: Bringing up level for play took: 0.001273
+[2021.01.24-15.01.28:321][940]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.01.24-15.01.28:323][940]PIE: Server logged in
+[2021.01.24-15.01.28:324][940]PIE: Play in editor total start time 0,083 seconds.
+[2021.01.24-15.01.29:636][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.01.29:636][ 64]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.01.24-15.01.29:636][ 64]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.24-15.01.29:636][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.24-15.01.29:662][ 64]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.24-15.01.29:702][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.24-15.01.29:719][ 64]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.24-15.01.29:719][ 64]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.24-15.01.29:720][ 64]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.24-15.01.29:737][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.01.29:740][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.01.24-15.01.29:885][ 65]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.01.24-15.01.49:380][537]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2021.01.24-15.01.50:696][661]Cmd: DELETE
+[2021.01.24-15.01.50:696][661]Cmd: ACTOR DELETE
+[2021.01.24-15.01.50:699][661]LogEditorActor: Deleted Actor: PlayerStart
+[2021.01.24-15.01.50:719][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.01.24-15.01.50:720][661]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2021.01.24-15.01.51:665][760]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.24-15.01.51:675][760]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.24-15.01.51:675][760]PIE: New page: PIE session: Untitled_1 (24 янв. 2021 г., 21:01:51)
+[2021.01.24-15.01.51:706][760]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.01.24-15.01.51:708][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002273s)
+[2021.01.24-15.01.51:710][760]LogAIModule: Creating AISystem for world Untitled_1
+[2021.01.24-15.01.51:710][760]LogPlayLevel: PIE: World Init took: (0.001573s)
+[2021.01.24-15.01.51:710][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004036s)
+[2021.01.24-15.01.51:728][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.01.24-15.01.51:728][760]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.01.24-15.01.51:728][760]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.24-15.01.51:728][760]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.24-15.01.51:728][760]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.24-15.01.51:728][760]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.24-15.01.51:728][760]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.24-15.01.51:729][760]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.24-15.01.51:729][760]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.24-15.01.51:729][760]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.24-15.01.51:729][760]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.24-15.01.51:729][760]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.24-15.01.51:733][760]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.24-15.01.51:733][760]LogAudioMixer: Display: 1: FrontRight
+[2021.01.24-15.01.51:741][760]LogAudioMixer: Display: Using Audio Device Line 1 (Virtual Audio Cable)
+[2021.01.24-15.01.51:741][760]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.24-15.01.51:741][760]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.24-15.01.51:741][760]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.24-15.01.51:742][760]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.24-15.01.51:742][760]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.24-15.01.51:742][760]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.24-15.01.51:758][760]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.24-15.01.51:758][760]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.24-15.01.51:758][760]LogInit: FAudioDevice initialized.
+[2021.01.24-15.01.51:758][760]LogAudio: Display: Audio Device (ID: 6) registered with world 'Untitled_1'.
+[2021.01.24-15.01.51:766][760]LogLoad: Game class is 'gamebase_C'
+[2021.01.24-15.01.51:768][760]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2021.01.24-18.01.51
+[2021.01.24-15.01.51:768][760]LogWorld: Bringing up level for play took: 0.000962
+[2021.01.24-15.01.51:768][760]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.01.24-15.01.51:771][760]PIE: Server logged in
+[2021.01.24-15.01.51:772][760]PIE: Play in editor total start time 0,098 seconds.
+[2021.01.24-15.01.53:337][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.01.53:337][919]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.01.24-15.01.53:337][919]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.24-15.01.53:337][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.24-15.01.53:363][919]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.24-15.01.53:367][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.24-15.01.53:383][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.01.53:383][919]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.24-15.01.53:385][919]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.24-15.01.53:404][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.01.24-15.01.53:514][920]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.01.24-15.01.57:900][347]Cmd: TRANSACTION UNDO
+[2021.01.24-15.01.57:900][347]LogEditorTransaction: Undo Delete Actors
+[2021.01.24-15.01.59:791][488]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2021.01.24-15.02.19:102][277]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.24-15.02.19:111][277]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.24-15.02.19:111][277]PIE: New page: PIE session: Untitled_1 (24 янв. 2021 г., 21:02:19)
+[2021.01.24-15.02.19:146][277]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.01.24-15.02.19:148][277]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002303s)
+[2021.01.24-15.02.19:149][277]LogAIModule: Creating AISystem for world Untitled_1
+[2021.01.24-15.02.19:149][277]LogPlayLevel: PIE: World Init took: (0.001142s)
+[2021.01.24-15.02.19:150][277]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003638s)
+[2021.01.24-15.02.19:168][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.01.24-15.02.19:169][277]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.01.24-15.02.19:169][277]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.24-15.02.19:169][277]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.24-15.02.19:169][277]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.24-15.02.19:169][277]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.24-15.02.19:169][277]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.24-15.02.19:169][277]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.24-15.02.19:169][277]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.24-15.02.19:169][277]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.24-15.02.19:169][277]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.24-15.02.19:169][277]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.24-15.02.19:173][277]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.24-15.02.19:173][277]LogAudioMixer: Display: 1: FrontRight
+[2021.01.24-15.02.19:181][277]LogAudioMixer: Display: Using Audio Device Line 1 (Virtual Audio Cable)
+[2021.01.24-15.02.19:181][277]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.24-15.02.19:181][277]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.24-15.02.19:181][277]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.24-15.02.19:181][277]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.24-15.02.19:181][277]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.24-15.02.19:181][277]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.24-15.02.19:197][277]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.24-15.02.19:197][277]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.24-15.02.19:197][277]LogInit: FAudioDevice initialized.
+[2021.01.24-15.02.19:197][277]LogAudio: Display: Audio Device (ID: 7) registered with world 'Untitled_1'.
+[2021.01.24-15.02.19:204][277]LogLoad: Game class is 'gamebase_C'
+[2021.01.24-15.02.19:206][277]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2021.01.24-18.02.19
+[2021.01.24-15.02.19:206][277]LogWorld: Bringing up level for play took: 0.001041
+[2021.01.24-15.02.19:206][277]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.01.24-15.02.19:209][277]PIE: Server logged in
+[2021.01.24-15.02.19:210][277]PIE: Play in editor total start time 0,098 seconds.
+[2021.01.24-15.02.22:067][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.02.22:067][572]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.01.24-15.02.22:067][572]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.24-15.02.22:067][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.24-15.02.22:089][572]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.24-15.02.22:102][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.24-15.02.22:119][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.02.22:119][572]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.24-15.02.22:120][572]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.24-15.02.22:140][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.01.24-15.02.22:259][573]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.01.24-15.02.25:278][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.24-15.02.25:956][891]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.24-15.02.26:416][933]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2021.01.24-15.02.29:384][214]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.24-15.02.29:963][266]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.01.24-15.02.32:882][519]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.24-15.02.32:892][519]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.24-15.02.32:892][519]PIE: New page: PIE session: Untitled_1 (24 янв. 2021 г., 21:02:32)
+[2021.01.24-15.02.32:916][519]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.01.24-15.02.32:918][519]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002225s)
+[2021.01.24-15.02.32:919][519]LogAIModule: Creating AISystem for world Untitled_1
+[2021.01.24-15.02.32:919][519]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2021.01.24-15.02.32:919][519]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003392s)
+[2021.01.24-15.02.32:936][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.01.24-15.02.32:937][519]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.01.24-15.02.32:937][519]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.24-15.02.32:937][519]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.24-15.02.32:937][519]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.24-15.02.32:937][519]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.24-15.02.32:937][519]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.24-15.02.32:937][519]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.24-15.02.32:937][519]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.24-15.02.32:937][519]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.24-15.02.32:938][519]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.24-15.02.32:938][519]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.24-15.02.32:942][519]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.24-15.02.32:942][519]LogAudioMixer: Display: 1: FrontRight
+[2021.01.24-15.02.32:948][519]LogAudioMixer: Display: Using Audio Device Line 1 (Virtual Audio Cable)
+[2021.01.24-15.02.32:949][519]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.24-15.02.32:949][519]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.24-15.02.32:949][519]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.24-15.02.32:949][519]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.24-15.02.32:949][519]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.24-15.02.32:949][519]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.24-15.02.32:964][519]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.24-15.02.32:964][519]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.24-15.02.32:964][519]LogInit: FAudioDevice initialized.
+[2021.01.24-15.02.32:964][519]LogAudio: Display: Audio Device (ID: 8) registered with world 'Untitled_1'.
+[2021.01.24-15.02.32:970][519]LogLoad: Game class is 'gamebase_C'
+[2021.01.24-15.02.32:971][519]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2021.01.24-18.02.32
+[2021.01.24-15.02.32:972][519]LogWorld: Bringing up level for play took: 0.000971
+[2021.01.24-15.02.32:972][519]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.01.24-15.02.32:974][519]PIE: Server logged in
+[2021.01.24-15.02.32:975][519]PIE: Play in editor total start time 0,084 seconds.
+[2021.01.24-15.02.38:277][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.02.38:277][ 73]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.01.24-15.02.38:277][ 73]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.24-15.02.38:277][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.24-15.02.38:301][ 73]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.24-15.02.38:310][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.24-15.02.38:327][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.02.38:327][ 73]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.24-15.02.38:328][ 73]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.24-15.02.38:345][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.01.24-15.02.38:470][ 74]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.01.24-15.02.40:688][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.24-15.02.41:273][302]LogEditorViewport: Clicking on Actor (LMB): characterBP_C (characterBP)
+[2021.01.24-15.02.43:022][422]Cmd: DELETE
+[2021.01.24-15.02.43:022][422]Cmd: ACTOR DELETE
+[2021.01.24-15.02.43:024][422]LogEditorActor: Deleted Actor: characterBP_C
+[2021.01.24-15.02.43:051][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.01.24-15.02.43:052][422]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.01.24-15.03.27:364][564]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.24-15.03.27:374][564]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.24-15.03.27:374][564]PIE: New page: PIE session: Untitled_1 (24 янв. 2021 г., 21:03:27)
+[2021.01.24-15.03.27:406][564]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.01.24-15.03.27:408][564]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001780s)
+[2021.01.24-15.03.27:409][564]LogAIModule: Creating AISystem for world Untitled_1
+[2021.01.24-15.03.27:409][564]LogPlayLevel: PIE: World Init took: (0.001038s)
+[2021.01.24-15.03.27:409][564]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002954s)
+[2021.01.24-15.03.27:426][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.01.24-15.03.27:427][564]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.01.24-15.03.27:427][564]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.24-15.03.27:427][564]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.24-15.03.27:427][564]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.24-15.03.27:427][564]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.24-15.03.27:427][564]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.24-15.03.27:427][564]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.24-15.03.27:427][564]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.24-15.03.27:427][564]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.24-15.03.27:428][564]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.24-15.03.27:428][564]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.24-15.03.27:432][564]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.24-15.03.27:432][564]LogAudioMixer: Display: 1: FrontRight
+[2021.01.24-15.03.27:440][564]LogAudioMixer: Display: Using Audio Device Line 1 (Virtual Audio Cable)
+[2021.01.24-15.03.27:440][564]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.24-15.03.27:440][564]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.24-15.03.27:440][564]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.24-15.03.27:440][564]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.24-15.03.27:440][564]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.24-15.03.27:440][564]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.24-15.03.27:456][564]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.24-15.03.27:456][564]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.24-15.03.27:456][564]LogInit: FAudioDevice initialized.
+[2021.01.24-15.03.27:456][564]LogAudio: Display: Audio Device (ID: 9) registered with world 'Untitled_1'.
+[2021.01.24-15.03.27:464][564]LogLoad: Game class is 'gamebase_C'
+[2021.01.24-15.03.27:465][564]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2021.01.24-18.03.27
+[2021.01.24-15.03.27:465][564]LogWorld: Bringing up level for play took: 0.000763
+[2021.01.24-15.03.27:465][564]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.01.24-15.03.27:468][564]PIE: Server logged in
+[2021.01.24-15.03.27:468][564]PIE: Play in editor total start time 0,095 seconds.
+[2021.01.24-15.03.28:736][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.03.28:736][665]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.01.24-15.03.28:736][665]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.24-15.03.28:736][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.24-15.03.28:748][665]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.24-15.03.28:752][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.24-15.03.28:768][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.03.28:769][665]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.24-15.03.28:770][665]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.24-15.03.28:789][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.01.24-15.03.28:820][666]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.01.24-15.03.33:763][980]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.24-15.03.33:774][980]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.24-15.03.33:774][980]PIE: New page: PIE session: Untitled_1 (24 янв. 2021 г., 21:03:33)
+[2021.01.24-15.03.33:774][980]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.01.24-15.03.33:776][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002377s)
+[2021.01.24-15.03.33:778][980]LogAIModule: Creating AISystem for world Untitled_1
+[2021.01.24-15.03.33:778][980]LogPlayLevel: PIE: World Init took: (0.001640s)
+[2021.01.24-15.03.33:778][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004120s)
+[2021.01.24-15.03.33:796][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.01.24-15.03.33:798][980]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.01.24-15.03.33:798][980]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.24-15.03.33:798][980]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.24-15.03.33:798][980]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.24-15.03.33:798][980]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.24-15.03.33:798][980]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.24-15.03.33:798][980]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.24-15.03.33:798][980]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.24-15.03.33:798][980]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.24-15.03.33:798][980]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.24-15.03.33:798][980]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.24-15.03.33:803][980]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.24-15.03.33:803][980]LogAudioMixer: Display: 1: FrontRight
+[2021.01.24-15.03.33:811][980]LogAudioMixer: Display: Using Audio Device Line 1 (Virtual Audio Cable)
+[2021.01.24-15.03.33:811][980]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.24-15.03.33:811][980]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.24-15.03.33:811][980]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.24-15.03.33:812][980]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.24-15.03.33:812][980]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.24-15.03.33:812][980]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.24-15.03.33:828][980]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.24-15.03.33:828][980]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.24-15.03.33:828][980]LogInit: FAudioDevice initialized.
+[2021.01.24-15.03.33:828][980]LogAudio: Display: Audio Device (ID: 10) registered with world 'Untitled_1'.
+[2021.01.24-15.03.33:839][980]LogLoad: Game class is 'gamebase_C'
+[2021.01.24-15.03.33:841][980]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2021.01.24-18.03.33
+[2021.01.24-15.03.33:841][980]LogWorld: Bringing up level for play took: 0.001071
+[2021.01.24-15.03.33:841][980]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.01.24-15.03.33:843][980]PIE: Server logged in
+[2021.01.24-15.03.33:844][980]PIE: Play in editor total start time 0,071 seconds.
+[2021.01.24-15.03.34:977][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.03.34:977][ 72]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.01.24-15.03.34:977][ 72]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.24-15.03.34:977][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.24-15.03.34:984][ 72]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.24-15.03.35:024][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.24-15.03.35:041][ 72]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.24-15.03.35:041][ 72]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.24-15.03.35:042][ 72]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.24-15.03.35:060][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.03.35:063][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.01.24-15.03.35:123][ 73]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.01.24-15.03.37:260][185]LogEditorViewport: Clicking on Actor (LMB): characterBP_C (characterBP)
+[2021.01.24-15.04.13:978][307]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.24-15.04.13:991][307]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.24-15.04.13:991][307]PIE: New page: PIE session: Untitled_1 (24 янв. 2021 г., 21:04:13)
+[2021.01.24-15.04.13:991][307]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.01.24-15.04.13:994][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002663s)
+[2021.01.24-15.04.13:995][307]LogAIModule: Creating AISystem for world Untitled_1
+[2021.01.24-15.04.13:995][307]LogPlayLevel: PIE: World Init took: (0.001591s)
+[2021.01.24-15.04.13:995][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004432s)
+[2021.01.24-15.04.14:015][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.01.24-15.04.14:017][307]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.01.24-15.04.14:017][307]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.24-15.04.14:017][307]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.24-15.04.14:017][307]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.24-15.04.14:017][307]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.24-15.04.14:017][307]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.24-15.04.14:017][307]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.24-15.04.14:017][307]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.24-15.04.14:017][307]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.24-15.04.14:017][307]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.24-15.04.14:017][307]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.24-15.04.14:022][307]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.24-15.04.14:022][307]LogAudioMixer: Display: 1: FrontRight
+[2021.01.24-15.04.14:030][307]LogAudioMixer: Display: Using Audio Device Line 1 (Virtual Audio Cable)
+[2021.01.24-15.04.14:030][307]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.24-15.04.14:030][307]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.24-15.04.14:030][307]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.24-15.04.14:030][307]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.24-15.04.14:030][307]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.24-15.04.14:030][307]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.24-15.04.14:047][307]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.24-15.04.14:047][307]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.24-15.04.14:047][307]LogInit: FAudioDevice initialized.
+[2021.01.24-15.04.14:047][307]LogAudio: Display: Audio Device (ID: 11) registered with world 'Untitled_1'.
+[2021.01.24-15.04.14:055][307]LogLoad: Game class is 'GameMode'
+[2021.01.24-15.04.14:057][307]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2021.01.24-18.04.14
+[2021.01.24-15.04.14:057][307]LogWorld: Bringing up level for play took: 0.001151
+[2021.01.24-15.04.14:058][307]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.01.24-15.04.14:058][307]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.01.24-15.04.14:058][307]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.01.24-15.04.14:058][307]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.01.24-15.04.14:060][307]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.01.24-15.04.14:060][307]PIE: Server logged in
+[2021.01.24-15.04.14:060][307]PIE: Play in editor total start time 0,071 seconds.
+[2021.01.24-15.04.17:397][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.04.17:397][573]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.01.24-15.04.17:397][573]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.24-15.04.17:397][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.24-15.04.17:403][573]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.24-15.04.17:441][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.24-15.04.17:458][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.04.17:458][573]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.24-15.04.17:459][573]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.24-15.04.17:478][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.01.24-15.04.17:540][574]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.01.24-15.04.24:684][985]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/gamebase.gamebase
+[2021.01.24-15.04.26:915][ 86]BlueprintLog: New page: Compile gamebase
+[2021.01.24-15.04.26:950][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.01.24-15.04.27:986][172]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.01.24-15.04.27:986][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.24-15.04.28:063][172]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/gamebase.gamebase
+[2021.01.24-15.04.31:902][449]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.24-15.04.43:686][575]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.24-15.04.43:697][575]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.24-15.04.43:697][575]PIE: New page: PIE session: Untitled_1 (24 янв. 2021 г., 21:04:43)
+[2021.01.24-15.04.43:697][575]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.01.24-15.04.43:699][575]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002171s)
+[2021.01.24-15.04.43:700][575]LogAIModule: Creating AISystem for world Untitled_1
+[2021.01.24-15.04.43:700][575]LogPlayLevel: PIE: World Init took: (0.001379s)
+[2021.01.24-15.04.43:700][575]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003649s)
+[2021.01.24-15.04.43:724][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.01.24-15.04.43:725][575]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.01.24-15.04.43:725][575]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.24-15.04.43:725][575]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.24-15.04.43:725][575]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.24-15.04.43:725][575]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.24-15.04.43:725][575]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.24-15.04.43:725][575]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.24-15.04.43:725][575]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.24-15.04.43:725][575]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.24-15.04.43:726][575]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.24-15.04.43:726][575]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.24-15.04.43:730][575]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.24-15.04.43:730][575]LogAudioMixer: Display: 1: FrontRight
+[2021.01.24-15.04.43:738][575]LogAudioMixer: Display: Using Audio Device Line 1 (Virtual Audio Cable)
+[2021.01.24-15.04.43:738][575]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.24-15.04.43:738][575]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.24-15.04.43:738][575]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.24-15.04.43:738][575]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.24-15.04.43:738][575]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.24-15.04.43:738][575]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.24-15.04.43:752][575]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.24-15.04.43:752][575]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.24-15.04.43:752][575]LogInit: FAudioDevice initialized.
+[2021.01.24-15.04.43:752][575]LogAudio: Display: Audio Device (ID: 12) registered with world 'Untitled_1'.
+[2021.01.24-15.04.43:756][575]LogLoad: Game class is 'gamebase_C'
+[2021.01.24-15.04.43:758][575]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2021.01.24-18.04.43
+[2021.01.24-15.04.43:758][575]LogWorld: Bringing up level for play took: 0.001215
+[2021.01.24-15.04.43:758][575]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.01.24-15.04.43:760][575]PIE: Server logged in
+[2021.01.24-15.04.43:761][575]PIE: Play in editor total start time 0,066 seconds.
+[2021.01.24-15.04.45:227][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.04.45:227][733]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.01.24-15.04.45:227][733]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.24-15.04.45:227][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.24-15.04.45:236][733]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.24-15.04.45:280][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.24-15.04.45:300][733]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.24-15.04.45:300][733]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.24-15.04.45:301][733]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.24-15.04.45:318][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.04.45:322][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.01.24-15.04.45:382][734]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.01.24-15.05.17:650][666]BlueprintLog: New page: Compile gamebase
+[2021.01.24-15.05.17:685][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.01.24-15.05.23:821][ 80]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2021.01.24-15.05.26:863][324]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.24-15.06.11:248][229]BlueprintLog: New page: Compile gamebase
+[2021.01.24-15.06.11:284][229]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.01.24-15.06.33:426][517]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.24-15.06.33:437][517]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.24-15.06.33:437][517]PIE: New page: PIE session: Untitled_1 (24 янв. 2021 г., 21:06:33)
+[2021.01.24-15.06.33:437][517]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.01.24-15.06.33:439][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002451s)
+[2021.01.24-15.06.33:441][517]LogAIModule: Creating AISystem for world Untitled_1
+[2021.01.24-15.06.33:441][517]LogPlayLevel: PIE: World Init took: (0.001512s)
+[2021.01.24-15.06.33:441][517]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004112s)
+[2021.01.24-15.06.33:462][517]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.01.24-15.06.33:464][517]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.01.24-15.06.33:464][517]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.24-15.06.33:464][517]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.24-15.06.33:464][517]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.24-15.06.33:464][517]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.24-15.06.33:464][517]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.24-15.06.33:464][517]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.24-15.06.33:464][517]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.24-15.06.33:464][517]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.24-15.06.33:464][517]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.24-15.06.33:464][517]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.24-15.06.33:469][517]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.24-15.06.33:469][517]LogAudioMixer: Display: 1: FrontRight
+[2021.01.24-15.06.33:476][517]LogAudioMixer: Display: Using Audio Device Line 1 (Virtual Audio Cable)
+[2021.01.24-15.06.33:477][517]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.24-15.06.33:477][517]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.24-15.06.33:477][517]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.24-15.06.33:477][517]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.24-15.06.33:477][517]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.24-15.06.33:477][517]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.24-15.06.33:494][517]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.24-15.06.33:494][517]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.24-15.06.33:494][517]LogInit: FAudioDevice initialized.
+[2021.01.24-15.06.33:494][517]LogAudio: Display: Audio Device (ID: 13) registered with world 'Untitled_1'.
+[2021.01.24-15.06.33:507][517]LogLoad: Game class is 'gamebase_C'
+[2021.01.24-15.06.33:509][517]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2021.01.24-18.06.33
+[2021.01.24-15.06.33:509][517]LogWorld: Bringing up level for play took: 0.001249
+[2021.01.24-15.06.33:510][517]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.01.24-15.06.33:512][517]PIE: Server logged in
+[2021.01.24-15.06.33:513][517]PIE: Play in editor total start time 0,077 seconds.
+[2021.01.24-15.06.42:067][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.06.42:067][249]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.01.24-15.06.42:067][249]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.24-15.06.42:067][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.24-15.06.42:077][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.24-15.06.42:116][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.24-15.06.42:135][249]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.24-15.06.42:135][249]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.24-15.06.42:136][249]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.24-15.06.42:153][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.06.42:156][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.01.24-15.06.42:215][250]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.01.24-15.09.45:404][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.01.24-15.09.45:406][650]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.026
+[2021.01.24-15.09.45:406][650]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/gamebase] ([1] browsable assets)...
+[2021.01.24-15.09.45:406][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/gamebase]
+[2021.01.24-15.09.45:406][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gamebase" FILE="C:/Users/Brux/Documents/Unreal Projects/mem/Saved/Autosaves/Game/gamebase_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.01.24-15.09.45:415][650]LogSavePackage: Moving 'C:/Users/Brux/Documents/Unreal Projects/mem/Saved/gamebase_Auto15FD5DFEE41A07AF395059B95B6D89F47.tmp' to 'C:/Users/Brux/Documents/Unreal Projects/mem/Saved/Autosaves/Game/gamebase_Auto1.uasset'
+[2021.01.24-15.09.45:416][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/characterBP] ([1] browsable assets)...
+[2021.01.24-15.09.45:426][650]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/characterBP.characterBP]
+[2021.01.24-15.09.45:426][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/characterBP]
+[2021.01.24-15.09.45:426][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/characterBP" FILE="C:/Users/Brux/Documents/Unreal Projects/mem/Saved/Autosaves/Game/characterBP_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.01.24-15.09.45:504][650]LogSavePackage: Moving 'C:/Users/Brux/Documents/Unreal Projects/mem/Saved/characterBP_Auto1FEF0B61D4746F274B65F08A5369A51EC.tmp' to 'C:/Users/Brux/Documents/Unreal Projects/mem/Saved/Autosaves/Game/characterBP_Auto1.uasset'
+[2021.01.24-15.09.45:505][650]LogFileHelpers: Auto-saving content packages took 0.099
+[2021.01.24-15.10.16:775][988]BlueprintLog: New page: Compile characterBP
+[2021.01.24-15.10.16:927][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.01.24-15.10.19:380][ 82]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.24-15.10.19:392][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.24-15.10.19:392][ 82]PIE: New page: PIE session: Untitled_1 (24 янв. 2021 г., 21:10:19)
+[2021.01.24-15.10.19:416][ 82]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.01.24-15.10.19:418][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002580s)
+[2021.01.24-15.10.19:420][ 82]LogAIModule: Creating AISystem for world Untitled_1
+[2021.01.24-15.10.19:420][ 82]LogPlayLevel: PIE: World Init took: (0.001342s)
+[2021.01.24-15.10.19:420][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004109s)
+[2021.01.24-15.10.19:441][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.01.24-15.10.19:442][ 82]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.01.24-15.10.19:442][ 82]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.24-15.10.19:442][ 82]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.24-15.10.19:442][ 82]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.24-15.10.19:442][ 82]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.24-15.10.19:442][ 82]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.24-15.10.19:442][ 82]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.24-15.10.19:442][ 82]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.24-15.10.19:442][ 82]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.24-15.10.19:443][ 82]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.24-15.10.19:443][ 82]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.24-15.10.19:447][ 82]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.24-15.10.19:447][ 82]LogAudioMixer: Display: 1: FrontRight
+[2021.01.24-15.10.19:456][ 82]LogAudioMixer: Display: Using Audio Device Line 1 (Virtual Audio Cable)
+[2021.01.24-15.10.19:456][ 82]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.24-15.10.19:456][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.24-15.10.19:456][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.24-15.10.19:457][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.24-15.10.19:457][ 82]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.24-15.10.19:457][ 82]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.24-15.10.19:473][ 82]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.24-15.10.19:473][ 82]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.24-15.10.19:473][ 82]LogInit: FAudioDevice initialized.
+[2021.01.24-15.10.19:474][ 82]LogAudio: Display: Audio Device (ID: 14) registered with world 'Untitled_1'.
+[2021.01.24-15.10.19:484][ 82]LogLoad: Game class is 'gamebase_C'
+[2021.01.24-15.10.19:486][ 82]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2021.01.24-18.10.19
+[2021.01.24-15.10.19:486][ 82]LogWorld: Bringing up level for play took: 0.001219
+[2021.01.24-15.10.19:486][ 82]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.01.24-15.10.19:490][ 82]PIE: Server logged in
+[2021.01.24-15.10.19:491][ 82]PIE: Play in editor total start time 0,1 seconds.
+[2021.01.24-15.10.19:491][ 82]LogOutputDevice: Warning: 
+
+Script Stack (1 frames):
+characterBP_C.InpAxisEvt_MoveRight_K2Node_InputAxisEvent_0
+
+[2021.01.24-15.10.19:813][ 82]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.322 s
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: === Handled ensure: ===
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: 
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: Ensure condition failed: NewObject->IsA(this->GeneratedClass) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Blueprint.cpp] [Line: 903]
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: Type mismatch: Expected characterBP_C, Found REINST_characterBP_C_79
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: Stack: 
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff8ed66ed07 UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff8ebf875f4 UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff8dd4a418e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff8dd919bfa UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff8ff7dbeb1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff8ff7f0680 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff8ff7c22cd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff8ff7c16d4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff8ff5325f4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff8ff7c0e33 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff8ebc8c115 UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff8ecf9ad03 UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff8eca456cc UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff8eca58f22 UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff8eca4363b UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff8eca56df1 UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff8ebc6f45e UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff8ece4b50e UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff8ece541b0 UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff8f6e5ed11 UE4Editor-Core.dll!UnknownFunction []
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff8f6e5f0fe UE4Editor-Core.dll!UnknownFunction []
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff8f6e7092d UE4Editor-Core.dll!UnknownFunction []
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff8ece710be UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff8ece779fa UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff8ec5988ff UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff8ec5a3199 UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff8dd0591d6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff8dd971996 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff6a2429b6a UE4Editor.exe!UnknownFunction []
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff6a244113c UE4Editor.exe!UnknownFunction []
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff6a244121a UE4Editor.exe!UnknownFunction []
+[2021.01.24-15.10.19:813][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff6a245527d UE4Editor.exe!UnknownFunction []
+[2021.01.24-15.10.19:814][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff6a2457faa UE4Editor.exe!UnknownFunction []
+[2021.01.24-15.10.19:814][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff93a177c24 KERNEL32.DLL!UnknownFunction []
+[2021.01.24-15.10.19:814][ 82]LogOutputDevice: Error: [Callstack] 0x00007ff93b4cd4d1 ntdll.dll!UnknownFunction []
+[2021.01.24-15.10.19:814][ 82]LogOutputDevice: Error: 
